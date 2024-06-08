@@ -109,18 +109,23 @@ collections:
   posts:
     output: true
     permalink: /posts/:path/
+    sort_by: date
+    categories:
+      - blog
   portfolio:
     output: true
-    permalink: /portfolio/
+    permalink: /portfolio/:path/
+  pages:
+    output: true
+    permalink: /:path/
 
-
-
+# 默认值
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post
       author_profile: true
       read_time: true
       comments: true
