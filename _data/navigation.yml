@@ -2,7 +2,7 @@ main:
   - title: "首页"
     url: /
   - title: "博客"
-    url: /posts/
+    url: /year-archive/
   - title: "作品集"
     url: /portfolio/
   - title: "简历"
