@@ -1,5 +1,5 @@
 这些文件夹在你的 GitHub Pages 仓库中有以下作用：
-
+地址：https://flowaiwzm.github.io
 - `_data`：存储网站数据文件（如 YAML、JSON），用于构建动态内容。
 - `_drafts`：未发布的草稿文章。
 - `_includes`：可重复使用的页面片段。
