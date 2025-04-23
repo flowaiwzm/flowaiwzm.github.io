@@ -1,4 +1,12 @@
-### Git的常见命令
+---
+title: 'Git的常见命令'
+date: 2025-4-23
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+### 
 
 - 项目初始化---- **git init**
 - 查看当前管理中状态--- **git status**
