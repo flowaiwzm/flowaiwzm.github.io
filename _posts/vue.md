@@ -1,4 +1,23 @@
+---
+
+title: 'Vue原理学习'
+
+date: 2012-08-14
+
+permalink: /posts/2012/08/blog-post-1/
+
+tags:
+
+- cool posts
+
+- category1
+
+- category2
+
+---
+
 ### vue的原理学习
+
 ```
 1、同级对比原则---最长递增子序列
 
