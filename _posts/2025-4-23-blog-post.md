@@ -6,7 +6,7 @@ tags:
   - category1
   - category2
 ---
-### 
+### Git的常见命令
 
 - 项目初始化---- **git init**
 - 查看当前管理中状态--- **git status**
@@ -29,7 +29,7 @@ tags:
   - git merge <分支名>
   - **git merge 合并的时候会产生冲突，此时就要进行手动修改啦（产生冲突一般就是由于修改了同一个文件的内容，所以合并的时候就会出现冲突。）**
 
-``````
+```
 将dev 中现在正在开发的功能提交到dev
 git add .
 git commit -m “xxxxx”
@@ -48,7 +48,7 @@ git branch -d bug
 查看当前有哪些分支
 git branch 或git branch -a 或git branch --all
 
-``````
+```
 
 - 添加存储仓库地址---**git remote add** 
   - git remote add origin <仓库地址>
@@ -69,7 +69,6 @@ git add .
 git commit -m “提交记录”
 git push origin dev
 3、到家
-
 下载代码
 git clone https://gitee.com/shliang/test_git.git
 或
@@ -85,3 +84,4 @@ git pull origin dev
 git add .
 git commit -m “提交记录”
 git push origin dev
+```
